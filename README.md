@@ -4,7 +4,7 @@ This is a simple single-page HTML CV created for the [roadmap.sh Single Page CV 
 
 ## Live Demo
 You can view the live version of my CV here:  
-[**Live CV**](https://yourusername.github.io/single-page-cv/)
+[**Live CV**](https://yourusername.github.com/single-page-cv/)
 
 ## How it Works
 - Built with only **HTML** and a small amount of inline **CSS**.
@@ -18,3 +18,4 @@ You can view the live version of my CV here:
 **Daniel Ajakaiye**  
 - Email: dansheun10@gmail.com
 - Phone: +234 7034259238
+
